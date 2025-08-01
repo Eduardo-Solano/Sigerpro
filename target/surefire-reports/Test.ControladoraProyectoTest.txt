@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Test.ControladoraProyectoTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.722 s -- in Test.ControladoraProyectoTest

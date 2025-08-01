@@ -1,0 +1,7 @@
+Test\ControladoraUsuarioTest.class
+Test\ControladoraProyectoTest.class
+Test\ControladoraEstudianteTest.class
+Test\ValidadorCamposTest.class
+Test\ControladoraEmpresaTest.class
+Test\ControladoraDocenteTest.class
+Test\ControladoraPersonaTest.class

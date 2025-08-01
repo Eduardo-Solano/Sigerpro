@@ -48,6 +48,7 @@ Debes crear una conexion a tu base de datos desde Netbeans, siguiendo los pasos:
 - Selecciona el Driver de PostgreSQL y y das clic en Next.
 - Y ahi solo ingresas los datos de tu base de datos, como el nombre de la misma, tu usuario de PostgreSQL, tu contraseña y das clic en Next.
 - Seleccionas el esquema que creaste en el paso anterior y listo.
+
 Modifica el archivo de configuración de conexión a la base de datos (``persistence.xml`` o el archivo correspondiente dentro de ``/src/main/resources/META-INF/``), agregando los datos de tu host, puerto, base de datos, usuario y contraseña.
 
 ### 4. Compilar el proyecto
